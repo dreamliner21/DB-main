@@ -1,6 +1,7 @@
 {
     "1": { 
         "name": "Pendek", 
+        "distance": 2, 
         "exp": 50, 
         "reward": 100, 
         "time": 10, 
@@ -10,6 +11,7 @@
     },
     "2": { 
         "name": "Lumayan Pendek", 
+        "distance": 4, 
         "exp": 80, 
         "reward": 110, 
         "time": 10, 
@@ -19,6 +21,7 @@
     },
     "3": { 
         "name": "Menengah", 
+        "distance": 6, 
         "exp": 100, 
         "reward": 200, 
         "time": 20, 
@@ -28,6 +31,7 @@
     },
     "4": { 
         "name": "Jauh", 
+        "distance": 10, 
         "exp": 200, 
         "reward": 500, 
         "time": 30, 
@@ -37,6 +41,7 @@
     },
     "5": { 
         "name": "Lumayan Jauh", 
+        "distance": 15, 
         "exp": 220, 
         "reward": 510, 
         "time": 40, 
